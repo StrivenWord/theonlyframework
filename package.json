@@ -1,13 +1,13 @@
 {
-  "name": "thebestmotherfuckingwebsite",
+  "name": "theonlyframework",
   "version": "1.0.0",
-  "description": "The title says it all.",
+  "description": "There is no web development framework except that which comes to each project in its particularity.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.prod.js",
     "start:dev": "webpack-dev-server"
   },
-  "author": "Denys Vitali",
+  "author": "Paul Lee",
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
